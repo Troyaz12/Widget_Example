@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Widget_Example</string>
+    <string name="item">item</string>
 </resources>
